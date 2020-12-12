@@ -1,0 +1,2 @@
+# conkyrc
+conky theme
